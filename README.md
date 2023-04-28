@@ -5,11 +5,11 @@ Grupo: DIU1_01AABB.  Curso: 2022/23
 Updated: 11/1/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Free Tour artesanía nazarí
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+La empresa promocionará free tours donde además de la historia y arquitectura de granada se hará especial mención al arte y artesanía nazarí. Además en el mismo se hablará y promocionará la visita al taller de pago.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
