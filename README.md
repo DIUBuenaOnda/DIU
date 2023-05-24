@@ -22,7 +22,7 @@ Miembros
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
+<!-- >>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1 -->
 
 
 # Proceso de Diseño 
@@ -32,18 +32,34 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Dado que pertenecemos al grupo 3, se nos asignó el taller de artesanía nazarí. No existe competencia directa pues lo que ofrecen es único en la ciudad de Granada. Hay un estudio de arquitectura que ofrece también un taller pero no está ni indicado en su página web. Sin embargo, con respecto a las otras 2 páginas propuestas para la asignatura, esta tiene gran potencial en cuanto a contenido que promociona y vende. Por todo lo demás el menú de navegación tiene mapeo por el cual sabemos donde estamos al contrario de las otras dos, aunque no dejan de abrirse nuevas pestañas. Además la información está mucho mejor distribuida y satura menos que en las otras dos. Con una página web mejor organizada y más seria no podría ni compararse con ambas.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+
+Naroa, es una estudiante del grado de historia del arte en la UPV (Universidad del País Vasco). Tiene 23 años y vive en Bilbao pero este año ha venido a Granada para realizar su SICUE. Está encantada con la ciudad y toda su historia y al enterarse del taller por uno de sus profesores tiene muchas ganas de realizarlo.
+
+<img align="center" src="img/PersonaNaroa.png" alt="Imagen de Naroa"/>
+
+Juan, es un profesor de historia del instituto Ángel Ganivet. Tiene 40 años y le gusta mucho buscar nuevas formas de transmitir a los alumnos su pasión por la historia.
+
+<img align="center" src="img/PersonaJuan.png" alt="Imagen de Juan"/>
+
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Hemos escogido estas dos experiencias de usuarios porque entendemos que, pese a buscar ambas lo mismo que es contratar el servicio, son a su vez distintas en cuanto a que no se enfrentan a los mismos problemas pero encuentran ambos las mismas problemáticas.
+
+<img align="center" src="img/JourneyNaroa.png" alt="Imagen de JourneyMap de Naroa"/>
+
+
+<img align="center" src="img/JourneyJuan.png" alt="Imagen de JourneyMap de Juan"/>
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -52,6 +68,7 @@ Miembros
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+
 
 
 ## Paso 2. UX Design  
