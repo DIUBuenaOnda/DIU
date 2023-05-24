@@ -63,13 +63,11 @@ Hemos escogido estas dos experiencias de usuarios porque entendemos que, pese a 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
 
 El documento se encuentra en el siguiente enlace [usability-review](/P1/P1/Usability-review-template.pdf).
+
+La valoración final es de un 45 sobre 100 debido a que la página tiene muchas cosas en las que mejorar. Destacando el pobre acceso, la mala navegabilidad y la poca ayuda que esta ofrece a sus usuarios.
 
 ## Paso 2. UX Design  
 
@@ -78,46 +76,43 @@ El documento se encuentra en el siguiente enlace [usability-review](/P1/P1/Usabi
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+Hemos decidido generar una tabla con algunos POV entre los cuales se encuentran algunos muy parecidos a los que ofrecerían Naroa y Juan (turista y centro educativo):
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+<img align="center" src="img/CapturaPOV.png" alt="Imagen de POV"/>
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+Hemos recogido las propuestas de valor en el siguiente scope canvas. Asi las principales ideas se pueden reconocer a simple vista: 
+
+<img align="center" src="img/CapturaScopeCanvas.png" alt="Imagen de POV"/>
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+Para el analisis de las tareas hemos generado una malla receptora de información con los perfiles del POV que nos ha quedado de esta forma:
+
+(Acceder al documento del siguiente enlace [U/T Matrix](/P2/POV%20y%20U_T%20matrix.pdf).)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+Este el sitemap que hemos generado:
 
->>> Identificar términos para diálogo con usuario  
+<img align="center" src="img/CapturaSiteMap.png" alt="Imagen de sitemap"/>
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
 
+Y aquí mostramos el labelling del mismo:
+
+<img align="center" src="img/ArquitecturaDeInformación.png" alt="Imagen de sitemap"/>
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+El diseño del layout lo puede visualizar junto con una breve explicación en el siguiente [pdf](/P2/Bocetos.pdf).
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -127,9 +122,9 @@ Término | Significado
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+El diseño del moodboard queda así:
+
+<img align="center" src="img/MoodboardPractica3.png" alt="Imagen de moodboard"/>
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
