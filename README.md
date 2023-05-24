@@ -69,7 +69,7 @@ Hemos escogido estas dos experiencias de usuarios porque entendemos que, pese a 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
-
+El documento se encuentra en el siguiente enlace [usability-review](/P1/P1/Usability-review-template.pdf).
 
 ## Paso 2. UX Design  
 
