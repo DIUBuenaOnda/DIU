@@ -78,7 +78,7 @@ La valoración final es de un 45 sobre 100 debido a que la página tiene muchas 
 
 Hemos decidido generar una tabla con algunos POV entre los cuales se encuentran algunos muy parecidos a los que ofrecerían Naroa y Juan (turista y centro educativo):
 
-<img align="center" src="img/CapturaPOV.png" alt="Imagen de POV"/>
+<img align="center" src="img/CapturaPOV.PNG" alt="Imagen de POV"/>
 
 
 
@@ -86,7 +86,7 @@ Hemos decidido generar una tabla con algunos POV entre los cuales se encuentran 
 ----
 Hemos recogido las propuestas de valor en el siguiente scope canvas. Asi las principales ideas se pueden reconocer a simple vista: 
 
-<img align="center" src="img/CapturaScopeCanvas.png" alt="Imagen de POV"/>
+<img align="center" src="img/CapturaScopeCanvas.PNG" alt="Imagen de POV"/>
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
@@ -102,7 +102,7 @@ Para el analisis de las tareas hemos generado una malla receptora de informació
 
 Este el sitemap que hemos generado:
 
-<img align="center" src="img/CapturaSiteMap.png" alt="Imagen de sitemap"/>
+<img align="center" src="img/CapturaSiteMap.PNG" alt="Imagen de sitemap"/>
 
 
 Y aquí mostramos el labelling del mismo:
@@ -141,16 +141,16 @@ Este es nuestro planteamiento de landing page:
 ### Logotipo
 Para el logotipo nos hemos inspirado en esta pieza de artesanía:
  
-<img align="center" src="img/LogotipoC.png" alt="Imagen de logotipo a color"/>
+<img align="center" src="img/LogotipoC.PNG" alt="Imagen de logotipo a color"/>
 
 A la que le hemos dejado solo el delineado obteniendo además un toque más “artesanal” haciendo que este no fuera muy preciso.
 
-<img align="center" src="img/Logotipo.png" alt="Imagen de logotipo"/>
+<img align="center" src="img/Logotipo.PNG" alt="Imagen de logotipo"/>
 
 ### Paleta de colores
 Para los colores hemos planteado que sean similares a los que nos podemos encontrar en los azulejos de la Alhambra. Siendo principales el azul y blanco y como secundarios para puntos muy concretos los otros tres.
 
-<img align="center" src="img/Paleta.png" alt="Imagen de paleta de colores"/>
+<img align="center" src="img/Paleta.PNG" alt="Imagen de paleta de colores"/>
 
 ### Iconografía
 Para los iconos nos hemos decantado por los que nos proporciona figma intentando buscar la simplicidad: que estos sean claros y concisos para que sean usables por cualquier tipo de persona. 
