@@ -55,10 +55,10 @@ Juan, es un profesor de historia del instituto Ángel Ganivet. Tiene 40 años y 
 
 Hemos escogido estas dos experiencias de usuarios porque entendemos que, pese a buscar ambas lo mismo que es contratar el servicio, son a su vez distintas en cuanto a que no se enfrentan a los mismos problemas pero encuentran ambos las mismas problemáticas.
 
-<img align="center" src="img/JourneyNaroa.png" alt="Imagen de JourneyMap de Naroa"/>
+<img align="center" src="img/JourneyNaroa.PNG" alt="Imagen de JourneyMap de Naroa"/>
 
 
-<img align="center" src="img/JourneyJuan.png" alt="Imagen de JourneyMap de Juan"/>
+<img align="center" src="img/JourneyJuan.PNG" alt="Imagen de JourneyMap de Juan"/>
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
