@@ -124,33 +124,82 @@ El diseño del layout lo puede visualizar junto con una breve explicación en el
 
 El diseño del moodboard queda así:
 
-<img align="center" src="img/MoodboardPractica3.png" alt="Imagen de moodboard"/>
+<img align="center" src="img/MoodboardPractica3.jpg" alt="Imagen de moodboard"/>
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+Este es nuestro planteamiento de landing page:
+
+<img align="center" src="img/LandingPage.png" alt="Imagen de landing page"/>
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+### Logotipo
+Para el logotipo nos hemos inspirado en esta pieza de artesanía:
+ 
+<img align="center" src="img/LogotipoC.png" alt="Imagen de logotipo a color"/>
+
+A la que le hemos dejado solo el delineado obteniendo además un toque más “artesanal” haciendo que este no fuera muy preciso.
+
+<img align="center" src="img/Logotipo.png" alt="Imagen de logotipo"/>
+
+### Paleta de colores
+Para los colores hemos planteado que sean similares a los que nos podemos encontrar en los azulejos de la Alhambra. Siendo principales el azul y blanco y como secundarios para puntos muy concretos los otros tres.
+
+<img align="center" src="img/Paleta.png" alt="Imagen de paleta de colores"/>
+
+### Iconografía
+Para los iconos nos hemos decantado por los que nos proporciona figma intentando buscar la simplicidad: que estos sean claros y concisos para que sean usables por cualquier tipo de persona. 
+Para las imágenes hemos usado distintas páginas indiscriminadamente que nos proporcionan imágenes y fotografías sin derechos de autor.
+
+### Tipografía
+Las indicadas en el moodboard:  la fuente para el título es Arab Dances y para el resto de texto es Noto Sans.
+
+### Patrón de diseño
+
+Para el patrón de diseño nos hemos basado en una página de un hotel cuyo diseño nos ha parecido muy acertado y que podía encajar muy bien con el tipo de proyecto que estamos realizando. https://airelles.com/fr
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Intentando mantener el estilo de los bocetos y buscando cubrir la mayoría de puntos que necesita una página web para cumplir con un buen diseño UX/UI hemos realizado los siguientes mockup:
 
+Página inicial:
+<img align="center" src="img/Boceto 1.png" alt="Imagen de página incial"/>
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+Si abrimos el menu:
+<img align="center" src="img/Boceto 1.1.png" alt="Imagen de página incial con menu"/>
+
+Si seleccionamos alguna de las opciones del menu:
+<img align="center" src="img/Boceto 2.png" alt="Imagen de visita al taller"/>
+
+Todos las opciones del menu guardan mucha similitud menos la tienda que se muestra así:
+<img align="center" src="img/Tienda.png" alt="Imagen de página tienda"/>
+
+Si seleccionamos un producto:
+<img align="center" src="img/Producto.png" alt="Imagen de producto"/>
+
+Si accedemos al carrito de productos seleccionados:
+<img align="center" src="img/Carrito.png" alt="Imagen de carro"/>
+
+Esto nos lleva a un formulario de compra que tendrá el siguiente formato (este mismo formulario nos sirve para reservar visitas al taller o free tours y muestra o quita algunos campos en función de lo que se esté comprando):
+<img align="center" src="img/Formulario Compra - 1.png" alt="Imagen de carro"/>
+
+<img align="center" src="img/Formulario Compra - 2.png" alt="Imagen de carro"/>
+
+Finalmente un detalle de la página de contacto:
+<img align="center" src="img/Contacto.png" alt="Imagen de carro"/>
+
+<!-- ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
 >>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox -->
 
 
 ## Paso 4. Evaluación 
